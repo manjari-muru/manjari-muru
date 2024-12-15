@@ -9,7 +9,7 @@ I’m passionate about harnessing the power of machine learning to analye commun
 
 Feel free to connect with me through LinkedIn [here](https://www.linkedin.com/in/manjari-muru/) or via email at mmuruganandam@ucsd.edu. Let’s collaborate to make a difference!
 
-*** Projects ***
+### Projects ###
 Level Data Machine Learning Challenge Project with Break Through Tech AI Program: Check out my team's project repository for the real-world ML project we worked on for Level Data for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [Cloned repo](https://github.com/level-data-1a/predicting-proficiency.git)
 
 <!--
