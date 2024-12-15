@@ -7,7 +7,7 @@ Beyond data analysitcs, I’m actively engaged in campus life as a research assi
 
 I’m passionate about harnessing the power of machine learning to analye communities in need as well as to unravel the complexities of neuroscience and metabolic disorders. My goal is to contribute to health policy development and neuroscience research, especially in the realm of neurodegenerative diseases and metabolic disorders, ensuring that effective treatments are accessible to those who need them the most. 
 
-Feel free to connect with me through LinkedIn at https://www.linkedin.com/in/manjari-muru/ or via email at mmuruganandam@ucsd.edu. Let’s collaborate to make a difference!
+Feel free to connect with me through LinkedIn [here](https://www.linkedin.com/in/manjari-muru/) or via email at mmuruganandam@ucsd.edu. Let’s collaborate to make a difference!
 
 <!--
 **manjari-muru/manjari-muru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
