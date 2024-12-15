@@ -3,7 +3,7 @@ Hello! I’m Manjari Muruganandam, and I’m thrilled to be double majoring in C
 
 Currently, I am an intern with Breakthrough Tech AI program, collaborating with LevelData on a machine learning project aimed at predicting student proficiency.This work has taught me the importance of using data to address disparities and improve outcomes—a principle I’m eager to apply to healthcare analytics.It’s rewarding to analyze factors like ethnicity, vendor usage, and coursework to make a real impact!
 
-Beyond data analysitcs, I’m actively engaged in campus life as a research assistant at NEATlabs, where I get to explore reward circuitry in brain and traumatic brain injury in rats. My previous roles as a member of the Well-Being Peer Educators team and the Speech and Debate team have enriched my experience and sharpened my communication skills, and helped me give back to the UCSD community. 
+Beyond data analytics, I’m actively engaged in campus life as a research assistant at NEATlabs, where I get to explore reward circuitry in brain and traumatic brain injury in rats. My previous roles as a member of the Well-Being Peer Educators team and the Speech and Debate team have enriched my experience and sharpened my communication skills, and helped me give back to the UCSD community. 
 
 I’m passionate about harnessing the power of machine learning to analye communities in need as well as to unravel the complexities of neuroscience and metabolic disorders. My goal is to contribute to health policy development and neuroscience research, especially in the realm of neurodegenerative diseases and metabolic disorders, ensuring that effective treatments are accessible to those who need them the most. 
 
